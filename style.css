@@ -1,0 +1,77 @@
+body {
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #0D38D3}
+  header {
+    padding-top: 50px;      
+    padding-right: 30%;
+    margin: 1px; 
+  }
+  main { 
+    padding-top: 25px;      
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px}
+    h1 {
+      font-family: "Roboto Mono", sans-serif;
+      font-size: 50px;
+      text-align: center;
+      color: #43d6b9ff;
+      line-height: 60px;
+      letter-spacing: 10px;
+      text-transform:capitalize;
+      margin: 2px;
+  
+}
+h2 {
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: #43d6b9ff;
+  line-height: 1.3em;
+  letter-spacing: 3px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p { 
+  font-family: "Roboto", sans-serif; 
+  font-size: 20px;
+  color: white;
+  line-height:1.5em;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 20px
+
+}
+a {
+  color: rgb(36, 41, 40);
+  text-decoration:underline;
+}
+  ul.nav-bar {
+    list-style-type:none;    
+    background-color: #43d6b9ff;
+    overflow:hidden;
+    border-style: solid;
+    border-color: #0D38D3;
+    
+}
+img {
+  display: block;
+  width: 80%;          
+  height: auto;     
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+
+  li.nav-item a {   
+    font-size: 15px;
+    color: #0D38D3;
+    text-decoration: none;
+    
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
